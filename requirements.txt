@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+gradio
+duckdb
+httpx
+pandas
